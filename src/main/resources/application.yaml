@@ -1,1 +1,2 @@
-
+spring.mvc.static-path-pattern=/ui/**
+spring.resources.static-locations=classpath:/public/test/,classpath:/public/node_modules/

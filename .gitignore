@@ -31,3 +31,11 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### NPM ###
+/public/node_modules/
+/public/package-lock.json
+
+### Runtime ###
+/images/
+/pdfs/
