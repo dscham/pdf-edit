@@ -33,8 +33,8 @@ build/
 .vscode/
 
 ### NPM ###
-/public/node_modules/
-/public/package-lock.json
+/ui/node_modules/
+/ui/package-lock.json
 
 ### Runtime ###
 /images/
